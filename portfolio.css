@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 14px;
+    
 }
 
 #header {
@@ -42,12 +43,20 @@ img {
 
 #about {
     width: 400px;
-    height: 330px;
+    height: 343px;
     display: inline-block;
+    
     
 
 }
 
 p {
+    height: 255px;
     background: #F3EEF2
+    
+}
+h3 {
+    width: 344px;
+    height: 20px;
+    background: linear-gradient(#A5A4AA,#7C7A88,#A5A4A9);
 }
