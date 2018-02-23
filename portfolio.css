@@ -1,25 +1,48 @@
 * {
-    margin: 10px;
-    padding: 10px;
+    margin: 0px;
+    padding: 14px;
 }
 
 #header {
     background: #F9F9F9;
     display: inline-block;
+    width: 980px;
 }
 h1 {
     
     width: 300px;
     display: inline-block;
- 
+    color: black;
+   
 }
-p {
+h2 {
     
-    margin-left: 367px;
+    margin-left: 338px;
     display: inline-block;
 }
 
 #wrapper {
     background: #3C2E34;
-    height: 950px;
+    height: 980px;
+    width: 980px;
+    padding-top: 0px;
+}
+
+img {
+    width: 400px;
+    height: 330px;
+    display: inline-block;
+}
+
+#about {
+    display: inline-block;
+    background: #878591;
+}
+
+#aboutheader {
+    display: inline-block;
+}
+
+p {
+    background: #F3EEF2
 }
