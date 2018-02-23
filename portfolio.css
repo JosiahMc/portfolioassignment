@@ -1,0 +1,25 @@
+* {
+    margin: 10px;
+    padding: 10px;
+}
+
+#header {
+    background: #F9F9F9;
+    display: inline-block;
+}
+h1 {
+    
+    width: 300px;
+    display: inline-block;
+ 
+}
+p {
+    
+    margin-left: 367px;
+    display: inline-block;
+}
+
+#wrapper {
+    background: #3C2E34;
+    height: 950px;
+}
