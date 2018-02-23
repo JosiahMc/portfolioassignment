@@ -7,12 +7,12 @@
 #header {
     background: #F9F9F9;
     display: inline-block;
-    width: 900px;
+    width: 880px;
 }
 
 #containerOne {
     display: inline-block;
-    width: 900px;
+    width: 880px;
 }
 h1 {
     
@@ -30,11 +30,11 @@ h2 {
 #wrapper {
     background: #3C2E34;
     height: 980px;
-    width: 900px;
+    width: 880px;
     padding-top: 0px;
 }
 
-img {
+#imageOne {
     width: 400px;
     height: 330px;
     vertical-align: bottom;
@@ -59,4 +59,24 @@ h3 {
     width: 344px;
     height: 20px;
     background: linear-gradient(#A5A4AA,#7C7A88,#A5A4A9);
+}
+
+#containerTwo {
+    margin-top: -20px;
+}
+.technologies {
+    width: 230px;
+    height: 400px;
+    display: inline-block;
+    margin: 10px;
+    background: linear-gradient(#FCFAFC,#EAE2EA,#D7C6D6);
+    
+
+}
+h4 {
+   
+    margin: -14px;
+    background: linear-gradient(#A5A4AA,#7C7A88,#A5A4A9);
+    
+
 }
