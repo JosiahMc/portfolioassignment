@@ -6,7 +6,12 @@
 #header {
     background: #F9F9F9;
     display: inline-block;
-    width: 980px;
+    width: 900px;
+}
+
+#containerOne {
+    display: inline-block;
+    width: 900px;
 }
 h1 {
     
@@ -17,30 +22,30 @@ h1 {
 }
 h2 {
     
-    margin-left: 338px;
+    margin-left: 200px;
     display: inline-block;
 }
 
 #wrapper {
     background: #3C2E34;
     height: 980px;
-    width: 980px;
+    width: 900px;
     padding-top: 0px;
 }
 
 img {
     width: 400px;
     height: 330px;
-    display: inline-block;
+    vertical-align: bottom;
+    /* display: inline-block; */
 }
 
 #about {
+    width: 400px;
+    height: 330px;
     display: inline-block;
-    background: #878591;
-}
+    
 
-#aboutheader {
-    display: inline-block;
 }
 
 p {
