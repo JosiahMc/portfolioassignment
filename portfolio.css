@@ -50,10 +50,16 @@ h2 {
 
 }
 
-p {
+.paragraphOne {
+
     height: 255px;
     background: #F3EEF2
     
+
+    
+}
+.paragraphTwo {
+    border-top: -20px;
 }
 h3 {
     width: 344px;
@@ -63,6 +69,7 @@ h3 {
 
 #containerTwo {
     margin-top: -20px;
+  
 }
 .technologies {
     width: 230px;
@@ -70,7 +77,8 @@ h3 {
     display: inline-block;
     margin: 10px;
     background: linear-gradient(#FCFAFC,#EAE2EA,#D7C6D6);
-    
+    vertical-align: bottom;
+    /* position: relative */
 
 }
 h4 {
@@ -78,5 +86,28 @@ h4 {
     margin: -14px;
     background: linear-gradient(#A5A4AA,#7C7A88,#A5A4A9);
     
-
 }
+
+h5 {
+   
+    margin: -14px;
+    background: linear-gradient(#A5A4AA,#7C7A88,#A5A4A9);
+    /* vertical-align: top; */
+    
+    /* position: absolute;
+    bottom: 14px;
+    left: 14px; */
+    /* display: inline-block; */
+    
+   
+}
+
+
+
+#imageTwos {
+   
+    height: 153px;
+    width: 258px;
+    margin-left: -28px;
+}
+
